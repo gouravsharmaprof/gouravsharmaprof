@@ -1,73 +1,74 @@
-# Gourav Sharma
+<h1 align="center">Hi, I'm Gourav Sharma 👋</h1>
+<h3 align="center">AI Developer | Machine Learning | Computer Vision</h3>
 
-AI Developer | Computer Vision | Applied Machine Learning  
-
-![Profile Views](https://komarev.com/ghpvc/?username=gouravsharmaprof&color=0e75b6&style=flat)
-
----
-
-## About Me
-
-I am a developer focused on building practical AI systems that solve real-world problems.  
-My work centers around healthcare accessibility and intelligent verification systems.
-
-- Developing an Accessible AI system for early breast cancer risk assessment  
-- Building a Smart Midday Meal Verification System (QR + Face Recognition)  
-- Interested in Machine Learning, Computer Vision, and scalable AI deployment  
-- Focused on building impactful, production-ready solutions  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gouravsharmaprof&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## Technical Skills
+## 👨‍💻 About Me
 
-**Languages**
-- Python  
-- HTML  
-
-**Domains**
-- Machine Learning  
-- Computer Vision  
-- AI Model Development  
-- Data Processing  
+- 🔬 Building **Accessible AI for Early Breast Cancer Risk Assessment**
+- 🍱 Developing **Smart Midday Meal Verification System (QR + Face Recognition)**
+- 🤖 Focused on Applied AI & Real-World Problem Solving
+- 📈 Continuously improving model accuracy and deployment systems
+- 🎯 Goal: Build scalable, impact-driven AI solutions
 
 ---
 
-## Tech Stack
+## 🛠 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
+</p>
 
----
-
-## Featured Projects
-
-### Breast Cancer Detection AI
-Early-stage risk assessment system using structured clinical and lifestyle data.
-
-### Face-Based Midday Meal System
-Identity verification and nutrition tracking system using QR codes and facial recognition.
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Processing-008080?style=for-the-badge" />
+</p>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gouravsharmaprof&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravsharmaprof&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravsharmaprof&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravsharmaprof&layout=compact&theme=default)
-
----
-
-## Current Focus
-
-- Improving model accuracy and validation methods  
-- Strengthening backend architecture  
-- Expanding real-world deployment capabilities  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gouravsharmaprof&theme=tokyonight" />
+</p>
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-- Email: your-email@example.com
-- LinkedIn: (add when ready)
+### 🧠 Breast Cancer Detection AI
+AI-based early risk prediction system using structured clinical & lifestyle data.
+
+### 🍱 Face-Based Midday Meal System
+QR + Face Recognition powered identity verification & nutrition tracking system.
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-ComingSoon-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## 📈 Current Focus
+
+- Improving model robustness
+- Backend optimization
+- Real-world AI deployment strategies
